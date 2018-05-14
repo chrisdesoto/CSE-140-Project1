@@ -1,0 +1,43 @@
+Executing instruction at 00400000: 24040003
+addiu	$4, $0, 3
+New pc = 00400004
+Updated r04 to 00000003
+No memory location was updated.
+Executing instruction at 00400004: 24050002
+addiu	$5, $0, 2
+New pc = 00400008
+Updated r05 to 00000002
+No memory location was updated.
+Executing instruction at 00400008: 3c080040
+lui	$8, 0x40
+New pc = 0040000c
+Updated r08 to 00400000
+No memory location was updated.
+Executing instruction at 0040000c: 25082000
+addiu	$8, $8, 8192
+New pc = 00400010
+Updated r08 to 00402000
+No memory location was updated.
+Executing instruction at 00400010: ad050000
+sw	$5, 0($8)
+New pc = 00400014
+No register was updated.
+Updated memory at address 00402000 to 00000002
+Executing instruction at 00400014: 8d060000
+lw	$6, 0($8)
+New pc = 00400018
+Updated r06 to 00000002
+No memory location was updated.
+Executing instruction at 00400018: 24a50002
+addiu	$5, $5, 2
+New pc = 0040001c
+Updated r05 to 00000004
+No memory location was updated.
+Executing instruction at 0040001c: 25082000
+addiu	$8, $8, 8192
+New pc = 00400020
+Updated r08 to 00404000
+No memory location was updated.
+Executing instruction at 00400020: ad050000
+sw	$5, 0($8)
+Memory Access Exception at 0x00400020: address 0x00404000

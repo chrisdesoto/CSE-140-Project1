@@ -1,0 +1,1541 @@
+Executing instruction at 00400000: 24080064
+addiu	$8, $0, 100
+New pc = 00400004
+Updated r08 to 00000064
+No memory location was updated.
+Executing instruction at 00400004: 24090000
+addiu	$9, $0, 0
+New pc = 00400008
+Updated r09 to 00000000
+No memory location was updated.
+Executing instruction at 00400008: 240a0000
+addiu	$10, $0, 0
+New pc = 0040000c
+Updated r10 to 00000000
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000064
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000063
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000000c7
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000062
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000129
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000061
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000018a
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000060
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000001ea
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000005f
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000249
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000005e
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000002a7
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000005d
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000304
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000005c
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000360
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000005b
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000003bb
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000005a
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000415
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000059
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000046e
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000058
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000004c6
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000057
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000051d
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000056
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000573
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000055
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000005c8
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000054
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000061c
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000053
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000066f
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000052
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000006c1
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000051
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000712
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000050
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000762
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000004f
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000007b1
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000004e
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000007ff
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000004d
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000084c
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000004c
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000898
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000004b
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000008e3
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000004a
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000092d
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000049
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000976
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000048
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000009be
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000047
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000a05
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000046
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000a4b
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000045
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000a90
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000044
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000ad4
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000043
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000b17
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000042
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000b59
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000041
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000b9a
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000040
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000bda
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000003f
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000c19
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000003e
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000c57
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000003d
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000c94
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000003c
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000cd0
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000003b
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000d0b
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000003a
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000d45
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000039
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000d7e
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000038
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000db6
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000037
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000ded
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000036
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000e23
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000035
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000e58
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000034
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000e8c
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000033
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000ebf
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000032
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000ef1
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000031
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000f22
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000030
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000f52
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000002f
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000f81
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000002e
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000faf
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000002d
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00000fdc
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000002c
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001008
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000002b
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001033
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000002a
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000105d
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000029
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001086
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000028
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000010ae
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000027
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000010d5
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000026
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000010fb
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000025
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001120
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000024
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001144
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000023
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001167
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000022
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001189
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000021
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000011aa
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000020
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000011ca
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000001f
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000011e9
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000001e
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001207
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000001d
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001224
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000001c
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001240
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000001b
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000125b
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000001a
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001275
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000019
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000128e
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000018
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000012a6
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000017
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000012bd
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000016
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000012d3
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000015
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000012e8
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000014
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000012fc
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000013
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000130f
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000012
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001321
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000011
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001332
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000010
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001342
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000000f
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001351
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000000e
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000135f
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000000d
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000136c
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000000c
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001378
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000000b
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001383
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 0000000a
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000138d
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000009
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 00001396
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000008
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 0000139e
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000007
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000013a5
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000006
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000013ab
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000005
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000013b0
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000004
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000013b4
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000003
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000013b7
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000002
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000013b9
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000001
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 01284821
+addu	$9, $9, $8
+New pc = 00400010
+Updated r09 to 000013ba
+No memory location was updated.
+Executing instruction at 00400010: 2508ffff
+addiu	$8, $8, -1
+New pc = 00400014
+Updated r08 to 00000000
+No memory location was updated.
+Executing instruction at 00400014: 1500fffd
+bne	$8, $0, 0x0040000c
+New pc = 00400018
+No register was updated.
+No memory location was updated.
+Executing instruction at 00400018: 3c080040
+lui	$8, 0x40
+New pc = 0040001c
+Updated r08 to 00400000
+No memory location was updated.
+Executing instruction at 0040001c: 25081000
+addiu	$8, $8, 4096
+New pc = 00400020
+Updated r08 to 00401000
+No memory location was updated.
+Executing instruction at 00400020: ad090000
+sw	$9, 0($8)
+New pc = 00400024
+No register was updated.
+Updated memory at address 00401000 to 000013ba
+Executing instruction at 00400024: 8d0a0000
+lw	$10, 0($8)
+New pc = 00400028
+Updated r10 to 000013ba
+No memory location was updated.
+Executing instruction at 00400028: 000a5080
+sll	$10, $0, 2
+New pc = 0040002c
+Updated r10 to 00004ee8
+No memory location was updated.
+Executing instruction at 0040002c: 00000000

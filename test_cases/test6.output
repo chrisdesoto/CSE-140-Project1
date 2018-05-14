@@ -1,0 +1,16 @@
+Executing instruction at 00400000: 24080000
+addiu	$8, $0, 0
+New pc = 00400004
+Updated r08 to 00000000
+No memory location was updated.
+Executing instruction at 00400004: 2400000a
+addiu	$0, $0, 10
+New pc = 00400008
+No register was updated.
+No memory location was updated.
+Executing instruction at 00400008: 1408fffe
+bne	$0, $8, 0x00400004
+New pc = 0040000c
+No register was updated.
+No memory location was updated.
+Executing instruction at 0040000c: 00000000
